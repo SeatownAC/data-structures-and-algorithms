@@ -2,7 +2,7 @@ const LinkedList = require('../II_insertions.js');
 
 describe('Single Linked List Module', ()=> {
 
-  it('should create a new list with a head of null', () => {
+  it('should create a new list with a head of value null', () => {
 
     let newList = new LinkedList;
 
