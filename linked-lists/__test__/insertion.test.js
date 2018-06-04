@@ -11,7 +11,7 @@ describe('Single Linked List Module', ()=> {
 
   it('for append, if linked-list is empty should make only node the head node', () => {
 
-    let newList = new List;
+    let newList = new LinkedList;
 
     
 
