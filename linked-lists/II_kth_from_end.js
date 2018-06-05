@@ -11,4 +11,15 @@ module.exports = class LinkedList {
   constructor() {
     this.head = null;
   }
-};
+
+  
+    // let node = new Node(val);
+
+    // node.next = this.head;
+    // this.head = node;
+    // return this;
+  };
+
+
+
+
