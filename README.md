@@ -18,6 +18,13 @@
 
 #![screen shot 2018-05-21 at 9 01 01 pm](https://user-images.githubusercontent.com/33205876/40341540-adfe140e-5d3a-11e8-84d2-d7dd0a31f6bf.png)
 
+#Queue_with_stacks
+![6-30-18 2_10 pm office lens 1](https://user-images.githubusercontent.com/33205876/42199534-ce6a2d0c-7e43-11e8-9aab-1ca42116dca4.jpeg)
+
+
+
+
+
 
 
 
