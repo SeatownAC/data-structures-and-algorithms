@@ -22,6 +22,10 @@
 
 ![img-1398](https://user-images.githubusercontent.com/33205876/43110818-ef4afe42-8ea2-11e8-85fd-54de93cc0f70.JPG)
 
+#Breadth-First-Traversal is a function that takes a binary tree as input and w/o using built-in methods, traverses the tree breadth-first and returns printed value of each node.
+![img-1399](https://user-images.githubusercontent.com/33205876/43111125-808161fc-8ea4-11e8-9e19-2d15f46b919f.JPG)
+
+
 
 
 
