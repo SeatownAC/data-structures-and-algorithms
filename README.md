@@ -25,7 +25,13 @@
 
 
 #Breadth-First-Traversal is a function that takes a binary tree as input and w/o using built-in methods, traverses the tree breadth-first and returns printed value of each node.
+
 ![img-1399](https://user-images.githubusercontent.com/33205876/43111125-808161fc-8ea4-11e8-9e19-2d15f46b919f.JPG)
+
+
+#Find-Max-Value is a function that traverses a tree and checks each node's value to see if it's higher than the current highest, if it is, the value is replaced with the highest and a single integer is returned in the end
+
+![screen shot 2018-07-23 at 6 26 53 pm](https://user-images.githubusercontent.com/33205876/43111443-29b5d31a-8ea6-11e8-8b25-f2018296787a.png)
 
 #Queue_with_stacks
 ![6-30-18 2_10 pm office lens 1](https://user-images.githubusercontent.com/33205876/42199534-ce6a2d0c-7e43-11e8-9aab-1ca42116dca4.jpeg)
@@ -38,6 +44,7 @@
 
 #towers_of_hanoi
 ![7-2-18 9_47 pm office lens 3](https://user-images.githubusercontent.com/33205876/42200597-d77aeea4-7e48-11e8-9da7-3f4ace98a1c0.jpeg)
+
 
 
 
